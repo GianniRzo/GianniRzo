@@ -1,7 +1,13 @@
 ## Hi there 👋
+My name is Gian Ruiz, I’m currently working on DH Ingenieros as a SST inspector 👷‍♂️. We are currently working on the Vive Rio project, which is located on the Malecón de Barranquilla.
+I’m currently learning software development on Riwi. I’m too excited because a have a lot expectative on this project to my profesional future 👨🏻‍🎓⚡.
+I’m looking to collaborate on any American company, it will be a awesome experience. 🏆 
+I’m looking for help with anything about software development, because I am new in this whole world and I want to be one of the best. 🥇
+You can reach me on Whatsapp: 3005010827, or on email: gianfrancoruiz08@gmail.com 📩💬
 
-<!--
-**GianniRzo/GianniRzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
 
 Here are some ideas to get you started:
 
